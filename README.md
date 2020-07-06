@@ -1,2 +1,5 @@
-# hello-world
-just another repository
+# 前端学习
+
+  我将在这里记录我在百度前端技术学院学习的过程。
+
+
